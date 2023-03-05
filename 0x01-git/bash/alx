@@ -1,0 +1,9 @@
+#!/bin/bash
+sh: 1: in/alx: not found
+ZZ
+ZQ
+:x
+:wq
+^C
+git config --global user.name "Your Name"
+ZZ
